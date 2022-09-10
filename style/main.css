@@ -106,7 +106,7 @@ header nav a:hover{
     display: block;
 }
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 566px){
     .filme-principal{
         background-image: url('https://wallpapercave.com/dwp1x/wp4886430.jpg');    
     } 
